@@ -1,0 +1,8 @@
+16/9/2011 fix edit profile in front end for change password.
+4/9/2011 add sql to mimes.php
+4/9/2011 module_model add method_exists for admin_nav()
+6/12/2011 update codeigniter 2.1.0
+19/12/2011 update MY_Email library; remove _set_header().
+
+version 1.0 change name to okvee Web start.
+27/2/2012 re-coding, improve performance, upgrade feature.

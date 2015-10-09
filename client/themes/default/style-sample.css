@@ -1,0 +1,30 @@
+/*
+ตัวอย่าง css
+css จะเก็บไว้ใน /client/themes/folder[ชื่อ theme]
+*/
+body {background: #fff; color: #000; font-family: tahoma,verdana; font-size: 12px; margin: 0; padding: 0;}
+
+form dl {display: table; margin: 0 0 10px 0; padding: 0;}
+form dl dd {float: left; margin: 0 0 10px 0; width: 470px;}
+form dl dd.comment {width: 300px;}
+form dl dt {clear: both; float: left; margin: 0 10px 10px 0; width: 100px;}
+
+h1, h2, h3, h4, h5, h6, p {margin: 0 0 10px 0;}
+
+p {margin: 0 0 10px 0;}
+
+.clear {clear: both;}
+
+.container {background: #ddd; color: #333; margin: 10px auto; padding: 0; width: 900px;}
+
+.full-column {margin: 0 0 10px 0; padding: 10px; text-shadow: 1px 1px #fff;}
+
+.main-column {float: left; border-right: 5px solid #d0d0d0; margin: 0 10px 10px 0; min-height: 500px; padding: 10px; text-shadow: 1px 1px #fff; width: 600px;}
+
+.side-column {float: right; margin: 0 0 10px 0; padding: 10px; text-shadow: 1px 1px #fff; width: 245px;}
+
+.site-name {background: #eee; color: #000; margin: 0 0 10px 0; padding: 10px; text-shadow: 0 0 3px #fff, 2px 2px 1px #aaa;}
+
+.txt_error {background: #ffecec; border:2px solid #ffc4c4; color:#f00; font-weight: bold; margin: 0 0 10px 0; padding: 3px;}
+.txt_require {color: #f00; font-weight: bold;}
+.txt_success {background: #f7fff2; border: 2px solid #8bfa49; color: #307f00; margin: 0 0 10px 0; padding: 3px;}

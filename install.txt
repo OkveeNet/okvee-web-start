@@ -1,0 +1,28 @@
+system requirement:
+php5.2.x
+mysql 5
+codeigniter 2.x (for replace/update)
+modular extensions 5.4 up (for replace/update)
+
+
+
+set these folder to write permission (0777)
+client/avatar
+
+create database and import sql
+for new installation.
+> okv-wsk-freshclean-install.sql
+install with some simple data (blog module)
+> okv-wsk-simpledata-install.sql
+
+config files
+application/config/config.php
+application/config/database.php
+application/config/email.php
+
+browse to installed path
+eg. http://localhost
+log in to site admin
+username = admin
+password = pass
+if no error and working fine = you are done.
